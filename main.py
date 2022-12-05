@@ -1,4 +1,17 @@
-"""Hangman Tic-Tac-Toe, Tu commences par jouer un jeux de hangman tu chouisis la catégorie et tu devine les lettres si tu a un elettre correctement la liste la change à un checkmark puis si tu l'a mal un X, si tu devine le mot tu gagne mais si tu perd tu va jouer le tic-tac-toe presque impossible, cest un tic-tac-toe mais l'ordi est capable de bouger deux fois (cest possible de le battre) si tu gagne le tic-tac-toe tu a la chance de rejouer si non le code arrete. Tout au long du code il utilise beaucoup des fonctions apprisent en classe. Il utilise Turtle, def function, tim package, random package, listes, join string, variables, du input, lower and upper built in function, while loop, if else elif built in functions, return, break, continue, du indexing, if elif else avec des mathematical operators; + = - > < =, du try and except built in functions,  """
+"""Hangman Tic-Tac-Toe, Tu commences par jouer un jeux de hangman 
+tu chouisis la catégorie et tu devine les lettres si tu a un elettre 
+correctement la liste la change à un checkmark puis si tu l'a mal un 
+X, si tu devine le mot tu gagne mais si tu perd tu va jouer le
+tic-tac-toe presque impossible, cest un tic-tac-toe mais l'ordi est 
+capable de bouger deux fois (cest possible de le battre) si tu gagne 
+le tic-tac-toe tu a la chance de rejouer si non le code arrete. Tout 
+au long du code il utilise beaucoup des fonctions apprisent en classe. 
+Il utilise Turtle, def function, tim package, random package, listes, 
+join string, variables, du input, lower and upper built in function, 
+while loop, if else elif built in functions, return, break, continue, 
+du indexing, if elif else avec des mathematical operators; + = - > < 
+=, du try and except built in functions, des global variables, des 
+nested lists, calling functions."""
 
 #Où j'importe tout les packages d'extra nécéssaire pour le code
 import random
